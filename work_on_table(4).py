@@ -440,6 +440,5 @@ def menu(table_of_attributes_and_values):
                 search_by_a = search_by_age(table_of_attributes_and_values)
         else:
             print("Вы можете использовать только числа от 0 до 8!, хуесос")
-            print("Быдло ебаное!")
             continue
 calling_for_the_menu = menu(table_of_attributes_and_values)
